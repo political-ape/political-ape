@@ -3,7 +3,7 @@
 *> Undegraduate CS student at [University of Bordeaux](https://www.u-bordeaux.fr/)*
 
 ### More about me <img src="https://media0.giphy.com/media/82LGQT2QKKMPBbkEkg/giphy.gif?cid=ecf05e47mu2u3jex9969o16q3lekh0jupbkm9sbuypbbab4z&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">
-```
+```java
 eu.politicalape.github.aboutme;
 
 //TODO: Graduate and fix hardcoded values!
