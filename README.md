@@ -12,4 +12,12 @@ public AboutMe() {
     this.code = {"Java", "C", "Python"};
     this.tools = {"Intellij Idea", "Archlinux", "My brain"};
 }
+``` 
+
 ```
+[political-ape@ordinatix][~]# cd old_projects/
+```
+### Me:
+<div style="text-align:center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb245ZmFuemVqMHRqa2F3bDQydjVlN2plYWdqNjByNW9rbGIzaXhlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPjbHO0jJxGsE/giphy.gif">
+</div>
