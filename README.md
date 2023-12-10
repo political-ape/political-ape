@@ -15,8 +15,7 @@ public AboutMe() {
 }
 ```
 ### 🗃️ My current projects
-- Working on creating a minecraft mod using [NeoForged](https://neoforged.net/).
-
+- Working on creating a minecraft mod named [Of Heaven and Earth](https://github.com/political-ape/of-heaven-and-earth/tree/main).
 
 <p align="center">
 <img src="https://img1.picmix.com/output/stamp/normal/5/6/9/8/1898965_dbf8d.gif" style="width: 180">
